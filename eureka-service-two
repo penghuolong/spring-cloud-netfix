@@ -1,0 +1,2 @@
+spring.application.name=eureka-service-two
+server.port=8081
